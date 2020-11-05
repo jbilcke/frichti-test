@@ -1,0 +1,1123 @@
+{
+  "menu-entrees": {
+    "id": 111,
+    "label": "Entrées",
+    "items": [
+      {
+        "product": {
+          "kind": "product",
+          "allergens": [],
+          "description": "Une entrée colorée et savoureuse de pois chiches et betteraves.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Pois chiche",
+            "Betterave",
+            "Eau",
+            "Huile d'olive",
+            "Sel",
+            "Cumin",
+            "Aïl",
+            "Piment d'Espelette",
+            "Poivre"
+          ],
+          "instructions": "Dégustez directement !",
+          "packaging": "Portion de 100 g.",
+          "productStory": "Cette recette équilibrée mais surtout très gourmande est issue du livre \"Je suis Healthy\" de Margot, du compte @Biendansmonslip. Margot a suivi un rééquilibrage alimentaire et vous accompagne dans votre envie de prendre soin de vous, spécialement dans cette période qui sent bon l'été.",
+          "shortDescription": "Du houmous à la betterave pour le petit côté sucré.",
+          "tags": [39, 21, 26, 28, 14],
+          "title": "Houmous de betteraves",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000759,
+          "inventoryLevel": "AVAILABLE",
+          "price": 290,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Sésame"],
+          "description": "De véritables carottes rapées croquantes, marinées toute une nuit avec du gingembre et du miel.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Carottes marinées (Carottes rapées, vinaigre de riz, jus de citron, miel, huile de sésame, gingembre, sel)",
+            "Graines de courge"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "130 g.",
+          "productStory": "",
+          "shortDescription": "De véritables carottes rapées croquantes, marinées toute une nuit avec du gingembre et du miel.",
+          "tags": [26, 14, 33, 21, 39],
+          "title": "Carottes râpées au gingembre",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000484,
+          "inventoryLevel": "AVAILABLE",
+          "price": 360,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": [],
+          "description": "Des carottes multicolores émincées, des pois chiches et des tomates séchées marinés dans une vinaigrette aux herbes fraîches et au jus de citron vert.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Carotte purple",
+            "Carotte jaune",
+            "Carotte orange",
+            "Pois chiches",
+            "Tomates séchées",
+            "Huile d'olive",
+            "Vinaigrette (Huile d'olive, jus de citron vert, coriandre, persil, menthe, sel)"
+          ],
+          "instructions": "Mélangez puis dégustez !",
+          "packaging": " 115 g.",
+          "productStory": "",
+          "shortDescription": "Des carottes multicolores émincées & des pois chiches dans une vinaigrette aux herbes fraîches et au jus de citron vert.",
+          "tags": [39, 21, 29, 27],
+          "title": "Carottes croquantes aux herbes fraîches",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000683,
+          "inventoryLevel": "AVAILABLE",
+          "price": 360,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Sésame"],
+          "description": "",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Houmous (Tahine, jus de citron jaune, ail, sel)",
+            "Carotte (Carotte origine France",
+            "fane de carotte)",
+            "Vierge de fane de carotte (Fane de carotte, huile d'olive, fleur de sel)"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "Portion de 100 g.",
+          "productStory": "",
+          "shortDescription": "",
+          "tags": [26, 39, 14, 28],
+          "title": "Houmous de carottes éco-responsable",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000781,
+          "inventoryLevel": "AVAILABLE",
+          "price": 360,
+          "unit": {
+            "singular": "Portion 100g",
+            "plural": "Portions 100g"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Lactose"],
+          "description": "Une recette végétarienne toute simple et toute fraîche. De délicieux pois chiches cuits al dente, marinés dans du jus de citron, un peu de féta AOP et des herbes fraîches pour couronner le tout.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Pois chiches",
+            "Féta",
+            "Coriandre",
+            "Menthe",
+            "Persil",
+            "Piment d'Espelette",
+            "Vinaigrette citron (huile de colza, eau, huile d'olive vierge extra, jus concentré de citron jaune, sel, poivre)"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "110 g.",
+          "productStory": "",
+          "shortDescription": "Une salade végétarienne toute simple et toute fraîche. Allez, chiche !",
+          "tags": [28, 39, 21],
+          "title": "Salade gourmande de pois chiches, feta & herbes",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000075,
+          "inventoryLevel": "AVAILABLE",
+          "price": 370,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Lactose"],
+          "description": "De juteux dés de pastèque, de la menthe fraîche, de la feta crémeuse et un filet d'huile d'olive Kalamata. Si simple et pourtant si bonne…",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Pastèque",
+            "Menthe",
+            "Feta",
+            "Huile d’olive Kalamata"
+          ],
+          "instructions": "Dégustez !",
+          "packaging": "Portion de 180 g.",
+          "productStory": "",
+          "shortDescription": "Une salade typiquement estivale très fraîche mais aussi très gourmande.",
+          "tags": [14, 39, 28, 21],
+          "title": "Salade pastèque menthe feta",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000429,
+          "inventoryLevel": "AVAILABLE",
+          "price": 370,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Poisson", "Moutarde", "Gluten", "Sulfites"],
+          "description": "Un classique à la sauce Frichti ! Du hareng Label Rouge fumé délicatement, des pommes de terre nouvelles, des oignons rouges et une vinaigrette à la moutarde de Meaux.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Pommes de terre (pomme de terre nouvelle, huile d'olive/tournesol, cerfeuil, sel)",
+            "Filet de hareng Label Rouge fumé doux",
+            "Oignons rouges",
+            "Vinaigrette huile d'olive moutarde"
+          ],
+          "instructions": "Secouez la vinaigrette, versez-la, mélangez puis dégustez !",
+          "packaging": "Portion de 170 g.",
+          "productStory": "",
+          "shortDescription": "Filet de hareng fumé Label Rouge et patates fondantes, vinaigrette à la moutarde de Meaux.",
+          "tags": [21, 26, 14],
+          "title": "Harengs fumés & pommes de terre",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000189,
+          "inventoryLevel": "AVAILABLE",
+          "price": 420,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Arachides", "Soja", "Sésame", "Gluten"],
+          "description": "3 rouleaux de printemps végétariens avec une onctueuse sauce maison au lait de coco et à la cacahuète.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Feuille de riz",
+            "Mélange légumes (vermicelle de riz cuit, carottes jaunes, carottes oranges, choux rouge, coriandre, menthe, huile tournesol/olive, sel)",
+            "Sauce cacahuète coco (lait de coco, huile sésame, cacahuètes grillées, sauce soja, jus de citron jaune, coriandre)"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "Portion de 150 g.",
+          "productStory": "",
+          "shortDescription": "3 rouleaux de printemps végétariens avec une onctueuse sauce maison au lait de coco et à la cacahuète.",
+          "tags": [26, 39, 21],
+          "title": "Rouleaux de printemps veggie",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000064,
+          "inventoryLevel": "AVAILABLE",
+          "price": 450,
+          "unit": {
+            "singular": "Entrée 1 personne",
+            "plural": "Entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose", "Sulfites"],
+          "description": "De la tomate, de l'aubergine et de la courgette doucement rôties et parfaitement fondantes, avec un crumble au bon goût de parmesan qui croque sous la dent.",
+          "images": [
+            "https://via.placeholder.com/552x368/FE8663/FFFFFF.jpg?text=ENTREE"
+          ],
+          "ingredients": [
+            "Mélange de légumes d’été (tomates, aubergines, courgettes, oignons, huile d’olive, vinaigre balsamique, sel, sucre)",
+            "Crumble (farine, parmesan, beurre doux, huile d’olive, basilic)"
+          ],
+          "instructions": "Peut se réchauffer au four, ou se déguster directement!",
+          "packaging": "160 g.",
+          "productStory": "",
+          "shortDescription": "Des légumes d'été gorgés de soleil rôtis, dans un crumble au bon goût de parmesan.",
+          "tags": [14, 39, 21, 30],
+          "title": "Crumble de légumes d'été",
+          "type": "Entrée",
+          "category": "ENTREE",
+          "productId": 1000411,
+          "inventoryLevel": "AVAILABLE",
+          "price": 450,
+          "unit": {
+            "singular": "entrée 1 personne",
+            "plural": "entrées 1 personne"
+          },
+          "brand": "frichti"
+        }
+      }
+    ]
+  },
+  "menu-plats": {
+    "id": 302,
+    "label": "Plats",
+    "items": [
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten"],
+          "description": "",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Mélange de légumes (Carotte, pois chiches, raisin blond, persil, pignon de pin)",
+            "Semoule complète (Eau, semoule complète, huile de tournesol, sel)",
+            "Sauce aux épices (Concassée de tomate, eau, oignon jaune, huile de tournesol, sel, cumin, curcuma, coriandre, paprika, ail)"
+          ],
+          "instructions": "Enlevez le couvercle, versez la sauce, puis réchauffez 2 mins au four micro-ondes. Mélangez puis dégustez ! ",
+          "packaging": "390 g.",
+          "productStory": "",
+          "shortDescription": "",
+          "tags": [39, 33, 30, 26],
+          "title": "Sweet couscous pois chiches et raisin",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000926,
+          "inventoryLevel": "AVAILABLE",
+          "price": 630,
+          "unit": {
+            "singular": "plat 1 personne",
+            "plural": "plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose"],
+          "description": "Des pennes servies dans une sauce béchamel crémeuse aux champignons de Paris bio et au parmesan sur laquelle on a disposé du persil frais finement ciselé.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Sauce Champignon (Champignon de Paris, crème liquide 35 %, eau, parmesan, huile de tournesol, ail, persil, sel, poivre)",
+            "Penne (Eau, penne, huile de tournesol, sel)"
+          ],
+          "instructions": "Enlevez le couvercle puis réchauffez 2 mins au four micro-ondes. Mélangez puis dégustez !",
+          "packaging": "Portion de 360 g.",
+          "productStory": "",
+          "shortDescription": "",
+          "tags": [39, 14, 30],
+          "title": "Penne aux champignons de Paris à la crème",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000925,
+          "inventoryLevel": "AVAILABLE",
+          "price": 690,
+          "unit": {
+            "singular": "plat 1 Personne",
+            "plural": "plats 1 Personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Poisson", "Lactose"],
+          "description": "Il parait que c'est la recette que préparaient les prostituées napolitaines pour appâter les clients tellement ça sent bon : des linguines al dente dans une sauce tomate bien relevée avec de l'ail, des gros morceaux d'olives noires, des câpres, des anchois et du piment !",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Linguine",
+            "Sauce (tomates concassées, olives noires dénoyautées, piment, anchois, câpres, huile d’olive, ail)",
+            "Parmesan",
+            "Basilic frais"
+          ],
+          "instructions": "Réchauffez, puis dégustez !",
+          "packaging": "Portion de 390 g.",
+          "productStory": "",
+          "shortDescription": "Des pâtes al dente dans une sauce tomate relevée avec de l'ail, des morceaux d'olives noires, des câpres, des anchois et du piment !",
+          "tags": [14, 30],
+          "title": "Linguine alla puttanesca",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000213,
+          "inventoryLevel": "AVAILABLE",
+          "price": 790,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose"],
+          "description": "Des spaghetti al dente et leur bolognaise maison, mijotée pendant des heures, comme ceux de votre enfance… voire meilleurs ? Frichti vous régale et pense à tout : les pâtes sont servies avec du parmesan râpé.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Spaghetti",
+            "Sauce bolognaise (viande hachée de boeuf origine France, sauce tomates, carottes, oignons, ail, basilic)",
+            "Parmesan"
+          ],
+          "instructions": "Enlevez le parmesan, réchauffez, puis dégustez !",
+          "packaging": "Portion de 430 g.",
+          "productStory": "",
+          "shortDescription": "Les bolo de votre enfance, avec du parmesan râpé… Mieux que chez maman ?",
+          "tags": [14, 30],
+          "title": "Spaghetti bolognaise",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000085,
+          "inventoryLevel": "AVAILABLE",
+          "price": 810,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose"],
+          "description": "Un bowl de boulghour tout en légèreté avec des courgettes et brocolis sautés, du concombre très croquant, une sauce blanche citron et miel, et d'éclatants grains de grenade pour apporter du peps !",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Boulghour",
+            "Légumes verts sautés (courgettes, brocolis, huile d'olive, sel, poivre)",
+            "Concombre",
+            "Sauce au fromage blanc (fromage blanc, huile d'olive, jus de citron jaune, miel)",
+            "Grenade"
+          ],
+          "instructions": "Versez la sauce, mélangez et dégustez !",
+          "packaging": "Portion de 400 g.",
+          "productStory": "",
+          "shortDescription": "Boulghour et légumes verts croquants, avec de la grenade pour le peps. Tout en légèreté !",
+          "tags": [14, 39, 21],
+          "title": "Primavera Bowl",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000123,
+          "inventoryLevel": "LOW",
+          "price": 850,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose", "Sulfites"],
+          "description": "Une salade copieuse de boulghour et quinoa, avec de la feta AOP et de la grenade acidulée.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Quinoa",
+            "Boulghour",
+            "Grenade",
+            "Feta",
+            "Vinaigrette Xérès (huile de colza, huile d'olive vierge extra, eau, vinaigre de Xérès, sel, poivre)",
+            "Menthe"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "348 g.",
+          "productStory": "",
+          "shortDescription": "Une salade copieuse de boulghour et quinoa, avec de la feta AOP et de la grenade acidulée.",
+          "tags": [14, 21, 39],
+          "title": "Salade de quinoa, feta & grenade",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000078,
+          "inventoryLevel": "AVAILABLE",
+          "price": 880.0000000000001,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": [],
+          "description": "La même recette que notre poulet au zaatar mais en version veggie ! Le poulet a été remplacé par de l’aubergine rôtie avec une semoule complète au chou kale et au chou fleur. Pour la gourmandise, on y a ajouté des oignons rouges confits et une sauce au tahin bien onctueuse.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Semoule chou kale (Eau, semoule complète, choux fleur, chou kale, sel, huile de tournesol)",
+            "Aubergines au zaatar (Aubergines, zaatar maison, huile d'olive, sel)",
+            "Sauce (Yahourt, eau, tahin, jus de citron jaune frais, ail, sel)",
+            "Oignon rouge (Oignon rouge, huile de tournesol, sel, sirop d'agave)"
+          ],
+          "instructions": "",
+          "packaging": "",
+          "productStory": "",
+          "shortDescription": "DétailsLa même recette que notre poulet au zaatar mais en version veggie ! Le poulet a été remplacé par de l’aubergine rôtie avec une semoule complète au chou kale et au chou fleur. Pour la gourmandise, on y a ajouté des oignons rouges confits et une sauce au tahin bien onctueuse.",
+          "tags": [39, 21],
+          "title": "Zaatar veggie bowl",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1001070,
+          "inventoryLevel": "AVAILABLE",
+          "price": 940,
+          "unit": {
+            "singular": "plat 1 Personne",
+            "plural": "plats 1 Personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Soja", "Gluten", "Arachides", "Sésame"],
+          "description": "Notre Natsu Tondon, c'est un plat d'inspiration japonaise, sauce Frichti — littéralement « plat d'été à base de porc ». Un effiloché de porc qui fond en bouche, un riz vinaigré façon sushi et du concombre mariné aux herbes et aux épices asiatiques.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Riz vinaigré (riz japonais, vinaigre de riz, sucre, sel)",
+            "Porc (Palette de porc origine UE, oignons, sauce soja, sucre, huile d’arachide, vinaigre de riz, hoisin)",
+            "Concombre râpé (concombre, sauce soja salée, jus de citron vert, menthe, gingembre, ail, sucre, coriandre, sel)",
+            "Cacahuètes grillées"
+          ],
+          "instructions": "À réchauffer au micro-ondes",
+          "packaging": "365 g.",
+          "productStory": "",
+          "shortDescription": "Un plat d'inspiration japonaise, avec du porc effiloché et du concombre mariné.",
+          "tags": [30, 26],
+          "title": "Natsu Tondon",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000364,
+          "inventoryLevel": "AVAILABLE",
+          "price": 990,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Crustacés"],
+          "description": "Des crevettes marinées toute une nuit puis sautées à la poêle, des poivrons confits, des carottes et de la semoule.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Semoule (semoule, huile de tournesol, sel, cumin)",
+            "Crevettes (crevettes, huile de tournesol, sel fin)",
+            "Poivrons (poivrons rouges, poivrons jaunes, huile d’olive, sel)",
+            "Carottes (carottes, huile d’olive, sel)",
+            "Marinade (huile de tournesol, jus de citron jaune bio , coriandre, persil, ail, cumin, sel, piment d’espelette, poivre noir)",
+            "Quartier de citron jaune bio"
+          ],
+          "instructions": "À déguster chaud ou froid selon votre convenance.",
+          "packaging": "",
+          "productStory": "",
+          "shortDescription": "Des crevettes marinées toute une nuit puis sautées à la poêle, des poivrons confits, des carottes et de la semoule.",
+          "tags": [26],
+          "title": "Crevettes à la chermoula",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000477,
+          "inventoryLevel": "AVAILABLE",
+          "price": 990,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Poisson", "Lactose", "Sulfites"],
+          "description": "Une salade gourmande avec des légumes grillés, un beau filet de saumon et de la feta sur un lit de semoule.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Semoule (semoule, huile d’olive, sel)",
+            "Légumes grillés (courgettes grillées, poivrons rouges grillés, huile d’olive, sel, origan)",
+            "Saumon (filet de saumon origène Norvège, jus de citron, huile d’olive, vinaigre balsamique, aneth, origan, ail, sel, paprika fumé, poivre)",
+            "Tomates cerises",
+            "Fêta",
+            "Mâche",
+            "Mignonette Xérès"
+          ],
+          "instructions": "À déguster directement !",
+          "packaging": "343 g.",
+          "productStory": "",
+          "shortDescription": "Une salade gourmande avec des légumes grillés, un beau filet de saumon et de la feta sur un lit de semoule.",
+          "tags": [14],
+          "title": "Salade de saumon & légumes grillés",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000460,
+          "inventoryLevel": "AVAILABLE",
+          "price": 1090,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Poisson", "Lactose"],
+          "description": "Un moelleux morceau de saumon cuit vapeur, des courgettes saisies à la poêle et une sauce aux herbes toute douce pour lier le tout.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Courgettes grillées (courgettes, huile d’olive, sel)",
+            "Saumon grillé (filet de saumon origine Norvège)",
+            "Quinoa (quinoa, jus de citron, persil, huile d’olive, sel)",
+            "Sauce au yaourt (yaourt grec, huile d’olive, aneth, coriandre, basilic, jus de citron, sel)"
+          ],
+          "instructions": "\nÀ déguster directement !\nAllergènes \nPoisson - Lactose \nPoids\n330 g.\n",
+          "packaging": "330 g.",
+          "productStory": "",
+          "shortDescription": "Un moelleux morceau de saumon cuit vapeur, des courgettes saisies à la poêle et une sauce aux herbes toute douce.",
+          "tags": [18, 28, 21],
+          "title": "Saumon moelleux aux courgettes",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1000463,
+          "inventoryLevel": "AVAILABLE",
+          "price": 1090,
+          "unit": {
+            "singular": "Plat 1 personne",
+            "plural": "Plats 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Moutarde", "Lactose", "Gluten"],
+          "description": "Un vrai poulet fermier et des brocolis rôtis au four sans matière grasse, avec une sauce légère au fromage blanc et du basilic frais. À savourer froid !",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Brocoli (Brocoli, eau, sel)",
+            "Poulet mariné (Lamelles de poulet fermier Label Rouge origine France, jus de citron jaune, huile d'olive, basilic, sel)",
+            "Fusilli complet (Fusilli complet, huile d'olive, sel)",
+            "Sauce (Yaourt grec, eau, jus de citron jaune, basilic, moutarde de Dijon, sel)"
+          ],
+          "instructions": "Se mange chaud ou froid.",
+          "packaging": "Portion de 390 g.",
+          "productStory": "",
+          "shortDescription": "",
+          "tags": [32, 33, 23],
+          "title": "Poulet fermier, brocolis rôtis & sauce basilic",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1001019,
+          "inventoryLevel": "AVAILABLE",
+          "price": 1190,
+          "unit": {
+            "singular": "plat 1 Personne",
+            "plural": "plats 1 Personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": [],
+          "description": "De beaux morceaux de poulet fermier Label Rouge, marinés avec du Zaatar, accompagnés d'une semoule complète au chou kale et au chou fleur. Pour la gourmandise, on y a ajouté des oignons rouges confits et une sauce au tahin bien onctueuse.",
+          "images": [
+            "https://via.placeholder.com/552x368/FFAA35/FFFFFF.jpg?text=PLAT"
+          ],
+          "ingredients": [
+            "Semoule chou kale (Eau, semoule complète, chou fleur, choux kale, huile de tournesol, sel fin)",
+            "Sauté de poulet (Poulet fermier Label Rouge origine France, jus de citron jaune frais, zaatar maison (Graines de sésame doré, sumac, thym, sel guérande)",
+            "Sauce (Eau, yaourt grec, tahin, jus de citron jaune frais, ail pelé, sel fin)",
+            "Oignon rouge (Oignon rouge, huile de tournesol, sel, sirop d'agave)"
+          ],
+          "instructions": "",
+          "packaging": "435 g.",
+          "productStory": "",
+          "shortDescription": "DétailsDe beaux morceaux de poulet fermier Label Rouge, marinés avec du Zaatar, accompagnés d'une semoule complète au chou kale et au chou fleur. Pour la gourmandise, on y a ajouté des oignons rouges confits et une sauce au tahin bien onctueuse.",
+          "tags": null,
+          "title": "Zaatar chicken bowl",
+          "type": "Plat",
+          "category": "PLAT",
+          "productId": 1001068,
+          "inventoryLevel": "AVAILABLE",
+          "price": 1190,
+          "unit": {
+            "singular": "plat 1 Personne",
+            "plural": "plats 1 Personne"
+          },
+          "brand": "frichti"
+        }
+      }
+    ]
+  },
+  "menu-desserts": {
+    "id": 96,
+    "label": "Desserts",
+    "items": [
+      {
+        "product": {
+          "kind": "product",
+          "allergens": [],
+          "description": "Un yaourt maison au lait entier, brassé avec la vanille et sucré au sucre de canne.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Lait entier pasteurisé, Sucre de canne, Lait pasteurisé écrémé en poudre, Extrait pur de vanille, Ferments lactiques"
+          ],
+          "instructions": "",
+          "packaging": "125 g.",
+          "productStory": "Beillevaire est avant tout une histoire de famille et de passion. Tout petit déjà, Pascal Beillevaire faisait les marchés avec ses parents pour vendre le lait et la crème de la ferme familiale. 30 ans plus tard, la crèmerie Beillevaire a bien grandi et Pascal et sa femme sillonne la France à la recherche des meilleurs fromages. Leur passion commune fait naître un métier : celui de producteur-fromager, un métier \"fédérateur de goût et de passion humaine\".",
+          "shortDescription": "Un yaourt maison au lait entier, brassé avec la vanille et sucré au sucre de canne.",
+          "tags": [39, 28, 21, 14],
+          "title": "Yaourt à la vanille Beillevaire",
+          "type": "Dessert",
+          "category": "BOF",
+          "productId": 1000745,
+          "inventoryLevel": "AVAILABLE",
+          "price": 150,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Lactose"],
+          "description": "Un yaourt préparé et égoutté dans la plus pure tradition hellène, à partir de lait de vaches du nord de la Grèce. Avec 10% de mat.grasses, le yaourt nature n'a jamais été aussi succulent.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Lait écrémé de vache",
+            "Crème",
+            "Protéines de lait",
+            "Culture lactique"
+          ],
+          "instructions": " Ce produit se conserve au réfrigérateur. Voir date limite de conservation sur l’emballage.",
+          "packaging": "200g, soit 8€/kg",
+          "productStory": "",
+          "shortDescription": "DétailsUn yaourt préparé et égoutté dans la plus pure tradition hellène, à partir de lait de vaches du nord de la Grèce. Avec 10% de mat.grasses, le yaourt nature n'a jamais été aussi succulent.",
+          "tags": [23, 39, 28],
+          "title": "Yaourt Grec",
+          "type": "Accompagnement",
+          "category": "CREMERIE",
+          "productId": 1000960,
+          "inventoryLevel": "AVAILABLE",
+          "price": 200,
+          "unit": {
+            "singular": "Unité",
+            "plural": "Unité"
+          },
+          "brand": "mavrommatis"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose"],
+          "description": "Du fromage blanc fermier de chez Beillevaire, un peu d'eau de fleur d'oranger et des morceaux de spéculoos croquants. Un mélange étonnant et détonnant ! Doux et croquant à la fois !",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Fromage blanc 3% Beillevaire",
+            "Crème liquide",
+            "Eau de fleur d'oranger",
+            "Spéculoos"
+          ],
+          "instructions": "À déguster directement !",
+          "packaging": "130 g.",
+          "productStory": "",
+          "shortDescription": "Du fromage blanc de chez Beillevaire et des morceaux de spéculoos bien croquants.",
+          "tags": [39, 21, 14],
+          "title": "Fromage blanc à la fleur d'oranger & au spéculoos",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000027,
+          "inventoryLevel": "AVAILABLE",
+          "price": 320,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose", "Oeuf", "Soja"],
+          "description": "Un cookie aux intenses pépites de chocolat, croustillant sur les bords, moelleux à l'intérieur. Laissez-vous tenter !",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Farine",
+            "Chocolat 63 %",
+            "Beurre demi-sel",
+            "Sucre roux",
+            "Sucre",
+            "Oeuf",
+            "Levure",
+            "Bicarbonate de soude"
+          ],
+          "instructions": "Dégustez !",
+          "packaging": "40 g.",
+          "productStory": "",
+          "shortDescription": "Un gros cookie aux pépites de chocolat, bien croquant sur les bords et moelleux au centre.",
+          "tags": [23, 39],
+          "title": "Crazy Cookie",
+          "type": "Dessert",
+          "category": "SNACK",
+          "productId": 1000129,
+          "inventoryLevel": "AVAILABLE",
+          "price": 180,
+          "unit": {
+            "singular": "Unité",
+            "plural": "Unités"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Oeuf", "Lactose"],
+          "description": "Une portionhe super tendre avec de belles pépites de chocolat de notre boulanger Thierry.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Farine de blé",
+            "Oeuf",
+            "Beurre",
+            "Pépite chocolat",
+            "Sucre",
+            "Levure",
+            "Lait en poudre",
+            "Sel"
+          ],
+          "instructions": "",
+          "packaging": "55 g.",
+          "productStory": "",
+          "shortDescription": "Une portionhe super tendre avec de belles pépites de chocolat de notre boulanger Thierry.",
+          "tags": [23, 39],
+          "title": "Brioche moelleuse au chocolat",
+          "type": "Boulangerie",
+          "category": "BOULANGERIE",
+          "productId": 1000709,
+          "inventoryLevel": "AVAILABLE",
+          "price": 180,
+          "unit": {
+            "singular": "Unité",
+            "plural": "Unités"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Lactose", "Oeuf", "Soja"],
+          "description": "Comment ne pas fondre devant cette crème et ces éclats de marron ? ",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Crème de marron",
+            "Chocolat noir",
+            "Oeuf bio",
+            "Beurre",
+            "Brisure de marron"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "90 g.",
+          "productStory": "",
+          "shortDescription": "Comment ne pas fondre devant cette crème et ces éclats de marron ? ",
+          "tags": [21, 39, 28],
+          "title": "Fondant choco marron",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000569,
+          "inventoryLevel": "AVAILABLE",
+          "price": 340,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Oeuf", "Lactose"],
+          "description": "Une belle tranche de gâteau au citron, moelleux à l'intérieur et doré à l'extérieur, préparée avec du jus et des zestes de véritables citrons.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Farine",
+            "Oeuf bio",
+            "Sucre",
+            "Beurre",
+            "Crème liquide",
+            "Jus de citron jaune bio",
+            "Zeste de citron jaune bio",
+            "Levure",
+            "Sel",
+            "Sirop d'imbibage (eau, sucre, zeste de citron jaune bio)"
+          ],
+          "instructions": "À déguster directement",
+          "packaging": "80 g.",
+          "productStory": "",
+          "shortDescription": "Une belle tranche de gâteau au citron, moelleuse à l'intérieur et dorée à l'extérieur.",
+          "tags": [18, 21, 14],
+          "title": "Cake citron",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000009,
+          "inventoryLevel": "AVAILABLE",
+          "price": 350,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Lactose"],
+          "description": "Fromage blanc fermier de chez Beillevaire, battu pour un rendu aérien, à mélanger à un coulis de dulce de leche (confiture de lait). Effet garanti.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Fromage blanc 3% Beillevaire",
+            "Crème liquide",
+            "Dulce de leche maison (lait concentré sucré)"
+          ],
+          "instructions": "A déguster bien frais.",
+          "packaging": "140 g.",
+          "productStory": "",
+          "shortDescription": "Attention risque d'addiction. Du fromage blanc battu à mélanger à un coulis de dulce de leche à tomber !",
+          "tags": [39, 21, 14, 28],
+          "title": "Fromage blanc au dulce de leche",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000031,
+          "inventoryLevel": "AVAILABLE",
+          "price": 360,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Lactose", "Oeuf", "Soja"],
+          "description": "La preuve par Frichti qu'on peut faire des gâteaux très gourmands et sans gluten.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Chocolat 64%",
+            "Blanc d'Oeuf bio",
+            "Sucre",
+            "Jaune d'Oeuf bio",
+            "Beurre"
+          ],
+          "instructions": "À déguster directement ! ",
+          "packaging": "70 g.",
+          "productStory": "",
+          "shortDescription": "La preuve par Frichti qu'on peut faire des gâteaux très gourmands et sans gluten !",
+          "tags": [39, 14, 28, 21],
+          "title": "Moelleux au chocolat",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000042,
+          "inventoryLevel": "AVAILABLE",
+          "price": 390,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose", "Fruits à coque"],
+          "description": "Banane, spéculoos concassés, dulce de leche et crème chantilly montée au mascarpone.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Crème Banofee (crème liquide, mascarpone, dulce leche)",
+            "Banane",
+            "Spéculoos concassés"
+          ],
+          "instructions": "À déguster directement.",
+          "packaging": "105 g.",
+          "productStory": "",
+          "shortDescription": "Banane, spéculoos concassés, dulce de leche et crème chantilly montée au mascarpone.",
+          "tags": [39, 21, 14],
+          "title": "Banoffee",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000133,
+          "inventoryLevel": "AVAILABLE",
+          "price": 390,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": ["Gluten", "Lactose", "Fruits à coque"],
+          "description": "Une compote pomme-rhubarbe acidulée surmontée d'un crumble amande croustillant. Le tout fait maison, évidemment !",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": [
+            "Compote (pomme golden, sucre)",
+            "Rhubarbe (rhubarbe, sucre, vanille)",
+            "Crumble amande (poudre d’amande, farine, beurre, sucre, fleur de sel)"
+          ],
+          "instructions": "A dégustez froid ou tiède.",
+          "packaging": "Portion de 160 g.",
+          "productStory": "",
+          "shortDescription": "Une compote pomme-rhubarbe acidulée et surmonté d'un crumble croustillant.",
+          "tags": null,
+          "title": "Crumble pomme-rhubarbe",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000277,
+          "inventoryLevel": "AVAILABLE",
+          "price": 420,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      },
+      {
+        "product": {
+          "kind": "product",
+          "allergens": [],
+          "description": "Des dés de mangue et de fruits de la passion frais, que l'on a choisi de laisser mûrir au soleil avant de les cueillir.",
+          "images": [
+            "https://via.placeholder.com/552x368/D25752/FFFFFF.jpg?text=DESSERT"
+          ],
+          "ingredients": ["Mangue", "Fruit de la passion"],
+          "instructions": "Dégustez !",
+          "packaging": "100 g.",
+          "productStory": "",
+          "shortDescription": "De la mangue et des fruits de la passion frais, cueillis sur l'arbre après avoir mûri au soleil.",
+          "tags": [33, 14, 40, 29, 26, 21],
+          "title": "Salade de mangue et fruit de la passion",
+          "type": "Dessert",
+          "category": "DESSERT",
+          "productId": 1000599,
+          "inventoryLevel": "AVAILABLE",
+          "price": 430,
+          "unit": {
+            "singular": "Dessert 1 personne",
+            "plural": "Desserts 1 personne"
+          },
+          "brand": "frichti"
+        }
+      }
+    ]
+  }
+}

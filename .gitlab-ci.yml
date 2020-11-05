@@ -1,0 +1,63 @@
+stages:
+  - install
+  - test_and_lint
+
+# ===== INSTALL TASK ======
+Install:
+  stage: install
+  image:
+    name: ${AWS_REG_FACTORY}/team-infra/node:12.14.1-alpine
+  cache:
+    key: install-build-cache-${CI_COMMIT_SHORT_SHA}-${CI_PIPELINE_ID}
+    policy: push
+    paths:
+      - node_modules/
+  script:
+    - npm install
+  except:
+    - tags
+
+# ===== LINT AND TEST TASK ======
+ESLint:
+  stage: test_and_lint
+  image:
+    name: ${AWS_REG_FACTORY}/team-infra/node:12.14.1-alpine
+  cache:
+    key: install-build-cache-${CI_COMMIT_SHORT_SHA}-${CI_PIPELINE_ID}
+    policy: pull
+    paths:
+      - node_modules/
+  script:
+    - npm run test:eslint
+  except:
+    - tags
+
+StyleLint:
+  stage: test_and_lint
+  image:
+    name: ${AWS_REG_FACTORY}/team-infra/node:12.14.1-alpine
+  cache:
+    key: install-build-cache-${CI_COMMIT_SHORT_SHA}-${CI_PIPELINE_ID}
+    policy: pull
+    paths:
+      - node_modules/
+  script:
+    - npm run test:stylelint
+  except:
+    - tags
+
+Unit Testing:
+  stage: test_and_lint
+  image:
+    name: ${AWS_REG_FACTORY}/team-infra/node:12.14.1-alpine
+  cache:
+    key: install-build-cache-${CI_COMMIT_SHORT_SHA}-${CI_PIPELINE_ID}
+    policy: pull
+    paths:
+      - node_modules/
+  variables:
+    TZ: 'Europe/Paris'
+  script:
+    - npm run test:unit
+  except:
+    - tags

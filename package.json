@@ -1,0 +1,92 @@
+{
+  "name": "frontend-exercise",
+  "version": "2.0.0",
+  "private": true,
+  "engines": {
+    "node": "12.16.2",
+    "npm": "6.14.4"
+  },
+  "scripts": {
+    "start": "kill-port 3000 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "npm-run-all -s test:unit test:eslint test:stylelint",
+    "test:unit": "CI=true react-scripts test",
+    "test:eslint": "eslint 'src/**/*.js'",
+    "test:staged": "CI=true react-scripts test --env=jsdom --bail --findRelatedTests",
+    "test:stylelint": "stylelint 'src/**/*.styled.js'",
+    "test:interactive": "react-scripts test",
+    "test:qawolf": "npx qawolf test",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook -c .storybook -o .out"
+  },
+  "dependencies": {
+    "polished": "^4.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-knobs": "^5.3.18",
+    "@storybook/addon-links": "^5.3.18",
+    "@storybook/addon-storyshots": "^5.3.18",
+    "@storybook/addons": "^5.3.18",
+    "@storybook/preset-create-react-app": "^2.1.1",
+    "@storybook/react": "^5.3.18",
+    "@storybook/theming": "^5.3.18",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "husky": "^4.3.0",
+    "jest-styled-components": "^7.0.3",
+    "kill-port": "^1.6.1",
+    "lint-staged": "^10.4.2",
+    "npm-run-all": "^4.1.5",
+    "qawolf": "1.4.0",
+    "redux-devtools": "^3.7.0",
+    "stylelint": "^13.7.2",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --max-warnings=0",
+      "npm run test:staged"
+    ],
+    "*.styled.js": [
+      "stylelint --max-warnings=0"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
